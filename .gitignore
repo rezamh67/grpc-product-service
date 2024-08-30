@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Logs
+logs/
+*.log
+
+# Miscellaneous
+.DS_Store
+*.bak
+*.tmp
