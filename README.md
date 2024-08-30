@@ -22,7 +22,7 @@ This project is a simple gRPC service implemented in Node.js. The service manage
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/grpc-product-service.git
+   git clone https://github.com/rezamh67/grpc-product-service.git
    cd grpc-product-service
    ```
 
