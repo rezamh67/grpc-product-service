@@ -1,6 +1,3 @@
-Here's the corrected version of your README file:
-
-```markdown
 # gRPC Product Service
 
 This project is a simple gRPC service implemented in Node.js. The service manages a list of products, allowing you to add, edit, delete, and retrieve products. The data is stored in an SQLite database.
